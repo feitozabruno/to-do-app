@@ -9,5 +9,5 @@
   "arrowParens": "always",
   "quoteProps": "as-needed",
   "bracketSameLine": false,
-  "plugins": ["prettier-plugin-prisma"]
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
